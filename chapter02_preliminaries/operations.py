@@ -17,3 +17,6 @@ print(torch.cat(((X, Y)), dim=1))
 print(X == Y)
 
 print(X.sum())
+
+
+
